@@ -94,13 +94,10 @@ CALCULATE([Total Revenue], Orders[Customer Type] = "Returning")
 
 ---
 
-## 📈 Dashboard Pages
+## 📈 Dashboard 
 
-1. **Sales Analysis** — headline KPIs, revenue by product type, new vs. returning revenue split, billing province map, order type by payment gateway, order quantity by customer type.
-2. **Customer Analysis** — customer counts, order frequency distribution, top customers by spend.
-3. **Product Performance** — revenue and order volume by product category, top vs. underperforming products.
-4. **Retention & Cohort Analysis** — repeat purchase rate, cohort retention by first-purchase month, gap between first and second purchase.
-5. **Geographic Analysis** — revenue and orders by billing province/region.
+<img width="1515" height="834" alt="Image" src="https://github.com/user-attachments/assets/26175058-640f-4e1e-8113-efb4f49e657b" />
+
 
 ---
 
